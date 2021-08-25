@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+hr {
+  width: 60%;
+  margin: auto;
+}
+body {
+  background-color: #fccece;
+}
+button {
+  cursor: pointer;
+  width: 120px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 10px;
+  color: white;
+  background-color: #b61e1e;
+}
+button:hover {
+  background-color: #e73908;
+}
+li {
+  list-style: none;
+}
+.listOfFood {
+  color: #961010;
+  background-color: #fa8383;
+  font-weight: bold;
+  border: 2px #b61e1e solid;
+  padding: 5px;
+  border-radius: 10px;
+  width: 40%;
+  margin: 10px auto;
+}
